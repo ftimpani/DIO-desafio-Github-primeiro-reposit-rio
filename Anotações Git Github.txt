@@ -1,0 +1,2 @@
+[Link para baixar o Gitbash]: (https://git-scm.com/downloads)
+Ferramenta para utilizar no github de forma local
